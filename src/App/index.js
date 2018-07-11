@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
-import "./App.css";
+import logo from "../logo.svg";
 // watch this https://www.leighhalliday.com/create-react-app-mobx-decorators
+
 class App extends Component {
   render() {
     return (
